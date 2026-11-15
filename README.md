@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>Hi, I'm [Your Name]</h1>
+  <h1>Hi, I'm Anuj Kumar </h1>
   <h3>Data Analyst | Turning raw data into decisions that matter</h3>
 
   <p>
-    <a href="mailto:YourEmailHere">
+    <a href="Anujk.12911@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="YourLinkedInProfileHere">
+    <a href="www.linkedin.com/in/anuj-kumar-2515a92b7">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="YourGitHubProfileHere">
